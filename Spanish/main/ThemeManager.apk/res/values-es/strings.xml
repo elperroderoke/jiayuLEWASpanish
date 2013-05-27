@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Temas del proveedor</string>
+    <string name="permlab_access_DrmThemeResources">Leer soportes protegidos con DRM.</string>
+    <string name="permdesc_access_DrmThemeResources">Permite a una aplicación leer soportes protegidos con DRM de Theme Packages.</string>
+    <string name="permlab_set_theme">Tema fijado globalmente.</string>
+    <string name="permdesc_set_theme">Permite a una aplicación cambiar el tema de tu teléfono.</string>
+</resources>
