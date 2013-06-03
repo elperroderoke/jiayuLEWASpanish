@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">Limpiar</string>
-    <string name="hello_world">Hola Mundo!</string>
-    <string name="menu_settings">Configuración</string>
-    <string name="title_activity_config">Configuración de la actividad</string>
-    <string name="result_format">Cerradas %1$d aplicciones, Liberada %2$s memoria.</string>
-    <string name="optimized">Optimizado</string>
-</resources>
