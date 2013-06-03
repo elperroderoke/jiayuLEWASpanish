@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wipe_all_messages">Datos del Servidor corruptos, se volverán a sincronizar todos los mensajes</string>
+    <string name="exchange_name">Corporación</string>
+    <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
+    <string name="meeting_accepted">Aceptado: %s</string>
+    <string name="meeting_declined">Rehusado: %s</string>
+    <string name="meeting_tentative">Provisional: %s</string>
+    <string name="meeting_canceled">Cancelado: %s</string>
+    <string name="meeting_updated">Actualizado: %s</string>
+    <string name="meeting_when">Cuando: %s</string>
+    <string name="meeting_where">Donde: %s</string>
+    <string name="meeting_recurring">Cuando: %s (Periódico)</string>
+    <string name="meeting_allday">Cuando: %s (Todo el día)</string>
+    <string name="meeting_allday_recurring">Cuando: %s (Periódico, todo el día)</string>
+    <string name="notification_exchange_calendar_added">Cambio del calendario añadido</string>
+    <string name="app_name">Cambio de servicios</string>
+    <string name="exception_cancel">El evento ha sido cancelado por: %s</string>
+    <string name="exception_updated">Los eventos de este calendario han sido cambiados por: %s</string>
+    <string name="policy_dont_allow_storage_cards">No permitir tarjetas almacenadas</string>
+    <string name="policy_dont_allow_unsigned_apps">No permitir aplicaciones sin firmar</string>
+    <string name="policy_dont_allow_unsigned_installers">No permitir instaladores de aplicaciones sin firmar</string>
+    <string name="policy_dont_allow_wifi">No permitir Wi-Fi</string>
+    <string name="policy_dont_allow_text_messaging">No permitir mensajes de texto</string>
+    <string name="policy_dont_allow_pop_imap">No permitir POP3 o cuentas IMAP</string>
+    <string name="policy_dont_allow_irda">No permitir infrarrojos</string>
+    <string name="policy_dont_allow_html">No permitir correo electrónico HTML</string>
+    <string name="policy_dont_allow_browser">No permitir navegadores</string>
+    <string name="policy_dont_allow_consumer_email">No permitir correo electrónico del consumidor</string>
+    <string name="policy_dont_allow_internet_sharing">Uso compartido de Internet no permitido</string>
+    <string name="policy_require_smime">Requerir mensajes SMIME</string>
+    <string name="policy_bluetooth_restricted">Restringir el uso de Bluetooth</string>
+    <string name="policy_app_blacklist">No permitir aplicaciones especificadas</string>
+    <string name="policy_app_whitelist">Permitir solamente las aplicaciones especificadas</string>
+    <string name="policy_text_truncation">Restringir el tamaño del texto de correo electrónico</string>
+    <string name="policy_html_truncation">Restringir el tamaño de correo electrónico HTML</string>
+    <string name="policy_require_sd_encryption">Requerir cifrado de la tarjeta SD</string>
+    <string name="policy_dont_allow_attachments">No permitir archivos adjuntos</string>
+    <string name="policy_max_attachment_size">Restringir el tamaño del archivo adjunto</string>
+    <string name="policy_require_manual_sync_roaming">Sólo permitir la sincronización manual en itinerancia</string>
+    <string name="policy_require_encryption">Requerir cifrado del dispositivo</string>
+</resources>
