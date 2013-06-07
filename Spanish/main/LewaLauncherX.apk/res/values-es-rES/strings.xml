@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="config_workspaceDefaultTransitionEffect">Standard</string>
-    <string name="config_workspaceDefaultGridSize">4|4</string>
     <string name="application_name">Launcher</string>
     <string name="uid_name">Aplicación core Android</string>
     <string name="folder_name">Carpeta</string>
@@ -81,16 +80,10 @@
     <string name="pref_screen_layout">Plantilla de la pantalla</string>
     <string name="pref_screen_layout_summary">Selecciona la plantilla para los accesos directos de la pantalla</string>
     <string name="pref_desktop_effect_summary">Efectos de transición entre pantallas</string>
-    <string name="pref_title_screen_loop">Escritorio circular</string>
-    <string name="pref_summary_screen_loop">Al alcanzar la última pantalla del escritorio y deslizar de nuevo salta a la primera pantalla</string>
     <string name="pref_title_wallpaper_scrolling">Desplazamiento del fondo de pantalla</string>
     <string name="pref_summary_wallpaper_scrolling">El fondo de pantalla se desplaza junto a las pantallas del escritorio</string>
     <string name="pref_title_action_updown">Gestos del escritorio</string>
     <string name="pref_summary_action_updown">Desde el escritorio, deslizar hacia arriba para abrir el menu y hacia abajo para abrir las notificaciones</string>
-    <string name="pref_title_scroll_speed">Control de la velocidad de desplazamiento</string>
-    <string name="pref_summary_scroll_speed">Permitir para acelarar</string>
-    <string name="pref_title_scrolling_vibrtor">Vibración circular</string>
-    <string name="pref_summary_scrolling_vibrtor">Vibrar una vez al pasar de la ultima pantalla del escritorio a la primera</string>
     <string name="pref_title_resetlauncher">Reinicia LeWa Home</string>
     <string name="pref_summary_resetlauncher">Reinicia el Launcher</string>
     <string name="message_resetlauncher">Reinicia todos los iconos, widgets y posiciones de la pantalla en el launcher.</string>
@@ -124,5 +117,32 @@
     <string name="system_groupname_other">Otras</string>
     <string name="lewaos_bbs">LeWa BBS</string>
     <string name="menu_scene">scene</string>
+    <string name="config_workspaceDefaultGridSize">4|4</string>
+    <string name="pref_title_screen_loop">Escritorio circular</string>
+    <string name="pref_summary_screen_loop">Al alcanzar la última pantalla del escritorio y deslizar de nuevo salta a la primera pantalla</string>
+    <string name="pref_title_scroll_speed">Control de la velocidad de desplazamiento</string>
+    <string name="pref_summary_scroll_speed">Permitir para acelarar</string>
+    <string name="pref_title_scrolling_vibrtor">Vibración circular</string>
+    <string name="pref_summary_scrolling_vibrtor">Vibrar una vez al pasar de la ultima pantalla del escritorio a la primera</string>
     <string name="shortcut_mms">Mensajeria</string>
+	<string name="apprecommend_net_not">Intentar de nuevo ya que no está conectado a la red, se recomienda revisar la red</string>
+    <string name="apprecommend_sd_not">no existe tarjeta sd, no se puede descargar</string>
+    <string name="apprecommend_net_error">Error de red, inténtalo más tarde</string>
+    <string name="apprecommend_recommendation">Recomendado</string>
+    <string name="apprecommend_native">Aplicaciones</string>
+    <string name="apprecommend_download">Descarga</string>
+    <string name="apprecommend_downloading">Descargando</string>
+    <string name="apprecommend_pause">Pausar</string>
+    <string name="apprecommend_continue">Continuar</string>
+    <string name="apprecommend_cancle">Cancelar</string>
+    <string name="apprecommend_source">Fuente:</string>
+    <string name="apprecommend_notlike">No gusta</string>
+    <string name="apprecommend_pop_downloadconut"> personas instalado</string>
+    <string name="apprecommend_show_text">Installed the necessary</string>
+    <string name="apprecommend_download_max">Descarga al menos 3</string>
+    <string name="apprecommend__install_success">Instalación terminada</string>
+    <string name="apprecommend__unlike_all">No hay recomendaciones aún</string>
+    <string name="pull_to_refresh_pull_label">Desliza para actualizar</string>
+    <string name="pull_to_refresh_release_label">Suelta para actualizar</string>
+    <string name="pull_to_refresh_refreshing_label">Cargando ..</string>
 </resources>
