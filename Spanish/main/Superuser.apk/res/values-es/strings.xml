@@ -91,11 +91,11 @@
 Atención: Si no has iniciado esta acción, o si no entiendes esta petición, es mejor rechazarla."</string>
 	<string name="request_message1">%1$s está solicitando permisos de superusuario.</string>
     <string name="request_messages_0">¿Está seguro de permitir el máximo permiso?</string>
-    <string name="request_messages_1">Permitirlo puede resultar en inestabilide del sistema</string>
-    <string name="request_messages_2">Puede provocar la pérdida de datos privados, como la contraseña de cuenta personal, SMS</string>
+    <string name="request_messages_1">Permitirlo puede resultar en inestabilid del sistema</string>
+    <string name="request_messages_2">Puede provocar la pérdida de datos privados, como la contraseñas de cuentas personales, SMS</string>
     <string name="request_messages_3">Incluso daño irreparable en el hardware</string>
-    <string name="request_messages_4">Te sugiero que utilizarlo con precaución!</string>
-    <string name="request_messages_5">¿Está seguro de permitir el máximo permiso?</string>
+    <string name="request_messages_4">¡Te sugiero utilizarlo con precaución!</string>
+    <string name="request_messages_5">¿Estas seguro de permitir el máximo permiso?</string>
     <string name="next">Siguiente</string>
     <string name="request_more_info">Pulsar para más información</string>
     <string name="request_less_info">Pulsar para menos información</string>
