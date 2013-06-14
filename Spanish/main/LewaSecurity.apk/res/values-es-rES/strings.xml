@@ -4,7 +4,7 @@
     <string name="app_virus">Antivirus</string>
     <string name="app_clearance">Espacio</string>
     <string name="app_speed">Aumentar velocidad</string>
-    <string name="app_autostart">Comenzar</string>
+    <string name="app_autostart">App Inicio</string>
     <string name="app_antitheft">Antirobo</string>
     <string name="app_permmanager">Gestor de permisos</string>
     <string name="app_intercept">Bloqueo</string>

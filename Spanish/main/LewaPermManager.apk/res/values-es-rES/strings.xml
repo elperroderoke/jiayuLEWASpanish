@@ -60,4 +60,6 @@
     <string name="combo_auto_launch_background">fondo de inicio</string>
     <string name="combo_network_mobile">A través de red 2G/3G</string>
     <string name="combo_network_wifi">A través de Wifi</string>
+	<string name="root_title">Gestión ROOT</string>
+    <string name="root_dialog_title">permitir root</string>
 </resources>
