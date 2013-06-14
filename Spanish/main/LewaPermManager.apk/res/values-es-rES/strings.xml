@@ -3,6 +3,7 @@
     <string name="app_name">Administrador de permisos</string>
     <string name="remember_option">Recordar mi elección</string>
     <string name="allow">Permitir</string>
+	<string name="next">siguiente</string>
     <string name="allow_all">Permitir todo</string>
     <string name="deny">Rechazar</string>
     <string name="deny_all">Rechazar todo</string>
@@ -22,6 +23,7 @@
     <string name="clear_logs_message">Está seguro que desea borrar los registros?</string>
     <string name="uninstall">Desinstalar</string>
     <string name="application">Aplicacion</string>
+	<string name="app">App</string>
     <string name="category_root">La más alta autoridad del sistema</string>
     <string name="category_security">Relacionadas con la seguridad</string>
     <string name="category_privacy">Relacionado con la privacidad</string>
@@ -49,7 +51,7 @@
     <string name="permission_phone_id_sub">Obtener el número de teléfono y el IMEI</string>
     <string name="permission_root">ROOT</string>
     <string name="permission_root_sub">Autorizacion mas alta del sistema</string>
-    <string name="package_list_title">%1$d aplicaciones tienen permisos sensibles</string>
+	<string name="package_list_title">%1$d aplicaciones tienen permisos sensibles</string>
     <string name="package_permission_number">%1$d permisos</string>
     <string name="permission_detail_title">%1$d aplicaciones tienen derecho a obtener %2$s permisos</string>
     <string name="package_permmison_logs">Dejar %1$d veces rechazar %2$d veces</string>
@@ -62,4 +64,12 @@
     <string name="combo_network_wifi">A través de Wifi</string>
 	<string name="root_title">Gestión ROOT</string>
     <string name="root_dialog_title">permitir root</string>
+    <string name="root_dialog_content">root es el permiso más alto, permitirlo puede dañar tu sistema, tus datos o el hardware. ¿Quieres permitirlo?</string>
+    <string name="request_message">%1$s está solicitando permisos de Superusuario.</string>
+    <string name="request_messages_0">¿Estás seguro de permitir el más alto permiso?</string>
+    <string name="request_messages_1">Permitirlo puede causar inestabilidad</string>
+    <string name="request_messages_2">causar daño en los datos</string>
+    <string name="request_messages_3">incluso daño irreparable en el hardware</string>
+    <string name="request_messages_4">Te sugerimos lo uses con precaución</string>
+    <string name="request_messages_5">¿Quieres permitirlo?</string>
 </resources>
