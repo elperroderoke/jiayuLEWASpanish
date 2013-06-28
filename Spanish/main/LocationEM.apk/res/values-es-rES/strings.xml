@@ -149,7 +149,6 @@
     <string name="net_reportfrequency_title">Frecuencia de información</string>
     <string name="net_reportfrequency_summary">Ubicación de red Frecuencia de actualización: 10 s</string>
     <string name="net_reportfrequency_listtitle">Lista de frecuencias</string>
-    <string name="net_reportfrequency_entriesDefaultValues">10</string>
     <string name="net_reportfrequency_value">Frecuencia actualizando la Ubicación de red: %s s</string>
     <string name="geo_use_limit">Limite de uso</string>
     <string name="geo_use_limit_title">Información legal del Geodescifrado MediaTek</string>
