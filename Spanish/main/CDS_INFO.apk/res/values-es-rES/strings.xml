@@ -120,7 +120,6 @@
     <string name="radioInfo_data_suspended">Suspendido</string>
     <string name="radioInfo_roaming_in">Itinerancia</string>
     <string name="radioInfo_roaming_not">Sin Itinerancia</string>
-    <string name="mtu_default_value">1500</string>
     <string name="mtu_name">Configurar Tamaño MTU de la Conexión de Red</string>
     <string name="mtu_configure_btn">TAMAÑO CONFIGURACIÓN MTU</string>
     <string name="mobileOnly">Sólo Conexión de Red Móvil</string>

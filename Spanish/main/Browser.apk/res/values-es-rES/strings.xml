@@ -12,8 +12,6 @@
   <string name="download_path_unavailable_dlg_title">Directorio de descarga no disponible</string>
   <string name="download_path_unavailable_dlg_msg">Modifique el directorio de descarga del explorador</string>
   <string name="dump_counters">Volcado de contadores V8</string>
-  <string name="instant_base">http://www.google.com/webhp?client={CID}&amp;source=android-instant&amp;ion=1</string>
-  <string name="homepage_for_op02">http://www.wo.com.cn</string>
   <string name="home">Inicio</string>
   <string name="close">Cerrar</string>
   <string name="option">Opción</string>
@@ -21,7 +19,6 @@
   <string name="quit">Salir</string>
   <string name="pref_download_title">Configuración de descargas</string>
   <string name="pref_extras_set_download_directory_title">Establecer directorio de descarga</string>
-  <string name="homepage_base_site_navigation">content://com.android.browser.site_navigation/websites</string>
   <string name="sitenavigation_add">Agregar sitio Web</string>
   <string name="tab_site_navigation">Navegación por el sitio</string>
   <string name="permlab_readHomepage">leer página de inicio en el explorador</string>
@@ -259,7 +256,6 @@
   <string name="pref_security_accept_cookies">Aceptar cookies</string>
   <string name="pref_security_accept_cookies_summary">Permitir que los sitios guarden y consulten datos de cookies</string>
   <string name="pref_min_font_size">Tamaño mínimo de fuente</string>
-  <string name="pref_min_font_size_value">%dpt</string>
   <string name="pref_text_zoom">Ajuste de texto</string>
   <string name="pref_zoom_on_double_tap">Zoom al tocar dos veces</string>
   <string name="pref_force_userscalable">Forzar zoom</string>
@@ -306,16 +302,8 @@
   <string name="pref_lab_fullscreen_summary">Usar el modo de pantalla completa para ocultar la barra de estado</string>
   <string name="pref_data_title">Gestión de ancho de banda</string>
   <string name="pref_data_preload_title">Carga previa de búsquedas</string>
-  <string name="pref_data_preload_value_never">NEVER</string>
-  <string name="pref_data_preload_value_wifi_only">WIFI_ONLY</string>
-  <string name="pref_data_preload_value_always">ALWAYS</string>
-  <string name="pref_data_preload_default_value">@string/pref_data_preload_value_wifi_only</string>
   <string name="pref_data_preload_summary">Permitir que el navegador cargue resultados de búsqueda en segundo plano</string>
   <string name="pref_data_preload_dialogtitle">Carga previa de búsquedas</string>
-  <string name="pref_link_prefetch_value_never">NEVER</string>
-  <string name="pref_link_prefetch_value_wifi_only">WIFI_ONLY</string>
-  <string name="pref_link_prefetch_value_always">ALWAYS</string>
-  <string name="pref_link_prefetch_default_value">@string/pref_link_prefetch_value_wifi_only</string>
   <string name="browserFrameNetworkErrorLabel">Error de conexión</string>
   <string name="browserFrameFileErrorLabel">Problema relacionado con el archivo</string>
   <string name="browserFrameFormResubmitLabel"/>
@@ -346,7 +334,6 @@
   <string name="cannot_download">Solo se pueden descargar URL del tipo \"http\" o \"https\".</string>
   <string name="download_pending">Iniciando descarga…</string>
   <string name="dump_nav">Volcar cache de navegación</string>
-  <string name="homepage_base">http://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="picasa">Picasa</string>
   <string name="search_the_web">Buscar en la Web</string>
   <string name="webstorage_outofspace_notification_title">Espacio de almacenamiento del navegador agotado</string>

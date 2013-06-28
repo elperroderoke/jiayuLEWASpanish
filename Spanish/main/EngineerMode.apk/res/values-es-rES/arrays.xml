@@ -110,14 +110,6 @@
     <item>AL3 ControlFieldSize1</item>
     <item>AL3 ControlFieldSize2</item>
   </string-array>
-  <string-array name="working_mode_audio_channels_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-    <item>3</item>
-    <item>4</item>
-    <item>5</item>
-  </string-array>
   <string-array name="working_mode_video_channels">
     <item>No Change</item>
     <item>AL2 WithSeqNum</item>
@@ -126,23 +118,10 @@
     <item>AL3 ControlFieldSize1</item>
     <item>AL3 ControlFieldSize2</item>
   </string-array>
-  <string-array name="working_mode_video_channels_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-    <item>3</item>
-    <item>4</item>
-    <item>5</item>
-  </string-array>
   <string-array name="working_mode_video_channels_reverse">
     <item>No Change</item>
     <item>Reverse Data</item>
     <item>Reverse NULL</item>
-  </string-array>
-  <string-array name="working_mode_video_channels_reverse_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
   </string-array>
   <string-array name="working_mode_multiplex_level">
     <item>No Change</item>
@@ -154,47 +133,21 @@
     <item>MuxLevel 3</item>
     <item>MuxLevel 3 With Optional Header</item>
   </string-array>
-  <string-array name="working_mode_multiplex_level_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-    <item>3</item>
-    <item>4</item>
-    <item>5</item>
-    <item>6</item>
-    <item>7</item>
-  </string-array>
   <string-array name="working_mode_video_codec_preference">
     <item>No Change</item>
     <item>MPEG4_H263</item>
     <item>H263_MPEG4</item>
-  </string-array>
-  <string-array name="working_mode_video_codec_preference_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
   </string-array>
   <string-array name="working_mode_use_wnsrp">
     <item>No Change</item>
     <item>OFF</item>
     <item>ON</item>
   </string-array>
-  <string-array name="working_mode_use_wnsrp_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-  </string-array>
   <string-array name="working_mode_terminal_type">
     <item>No Change</item>
     <item>Normal</item>
     <item>Master</item>
     <item>Slave</item>
-  </string-array>
-  <string-array name="working_mode_terminal_type_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-    <item>3</item>
   </string-array>
   <string-array name="log_filter_tags">
     <item>VT_DEFAULT</item>
@@ -248,18 +201,9 @@
     <item>TD only</item>
     <item>GSM only</item>
   </string-array>
-  <string-array name="gsm_umts_network_preferences_values">
-    <item>0</item>
-    <item>2</item>
-    <item>1</item>
-  </string-array>
   <string-array name="device_mgr_entries">
     <item>Disable</item>
     <item>Enable</item>
-  </string-array>
-  <string-array name="device_mgr_values">
-    <item>0</item>
-    <item>1</item>
   </string-array>
   <string-array name="tvout_system_list">
     <item>PAL</item>

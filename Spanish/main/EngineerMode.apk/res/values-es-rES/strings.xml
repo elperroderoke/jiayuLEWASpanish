@@ -123,7 +123,6 @@
   <string name="TouchScreen_Settings_TextSpinner">Category</string>
   <string name="TouchScreen_Settings_TextSet">Set</string>
   <string name="TouchScreen_Settings">Settings</string>
-  <string name="TouchScreen_Settings_Value">0</string>
   <string name="TouchScreen_Settings_sdcard">OFF</string>
   <string name="TouchScreen_Settings_uart">OFF</string>
   <string name="TouchScreen_Settings_TextUart">Enable Uart Log</string>
@@ -137,7 +136,6 @@
   <string name="Display_lcm_off">LCM OFF</string>
   <string name="Display_set_Text">PWM duty: 0~63</string>
   <string name="Display_set">Set</string>
-  <string name="Display_Edit_Value">0</string>
   <string name="Display_input_invalid">Error: please input number between 0 and 63.</string>
   <string name="Display_backlight_on_ok">Set LCD backlight ON success.</string>
   <string name="Display_backlight_on_fail">Set LCD backlight ON Failed.</string>
@@ -214,7 +212,6 @@
   <string name="GPIO_Data_Text">Set Data Level</string>
   <string name="GPIO_Data_High">High</string>
   <string name="GPIO_Data_Low">Low</string>
-  <string name="GPIO_Edit_Value">0</string>
   <string name="New_MSDC">MSDC</string>
   <string name="MSDC">MSDC</string>
   <string name="MSDC_Get">Get</string>
@@ -287,7 +284,6 @@
   <string name="hqa_cpustress_test_toast_threadhandler_error">Thread handler start error</string>
   <string name="hqa_cpustress_apmcu_name">AP MCU</string>
   <string name="hqa_cpustress_apmcu_loopcount">Loop Count</string>
-  <string name="hqa_cpustress_apmcu_loopcount_value">1000</string>
   <string name="hqa_cpustress_apmcu_l2c">Enable L2C test</string>
   <string name="hqa_cpustress_apmcu_neon">Enable Neon test</string>
   <string name="hqa_cpustress_apmcu_ca9">Enable CA9 Max Power test</string>
@@ -301,8 +297,6 @@
   <string name="hqa_cpustress_clockswitch_enabledebug">Enable debug message</string>
   <string name="hqa_cpustress_clockswitch_settimeout">Set Timeout</string>
   <string name="hqa_cpustress_clockswitch_s">s</string>
-  <string name="hqa_cpustress_clockswitch_s_value">5</string>
-  <string name="hqa_cpustress_clockswitch_ns_value">5</string>
   <string name="hqa_cpustress_clockswitch_ns">ns</string>
   <string name="hqa_cpustress_clockswitch_start">Start</string>
   <string name="hqa_cpustress_clockswitch_stop">Stop</string>
@@ -311,8 +305,6 @@
   <string name="hqa_cpustress_clockswitch_command_error">Command error, skip it</string>
   <string name="hqa_cpustress_swvideo_name">SW Video Codec</string>
   <string name="hqa_cpustress_swvideo_loopcount">Loop Count</string>
-  <string name="hqa_cpustress_swvideo_loopcount_value">1000</string>
-  <string name="hqa_cpustress_swvideo_iteration_value">1000</string>
   <string name="hqa_cpustress_swvideo_iteration">Iteration</string>
   <string name="hqa_cpustress_swvideo_start">Start</string>
   <string name="hqa_cpustress_swvideo_stop">Stop</string>
