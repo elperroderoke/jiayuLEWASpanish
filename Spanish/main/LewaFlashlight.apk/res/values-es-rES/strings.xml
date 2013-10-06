@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
-    <string name="flashDevice">/sys/class/leds/flashlight/brightness</string>
-    <string name="app_name">Linterna</string>
-    <string name="prompt">Deja pulsado el botón HOME para encender la linterna en la pantalla de bloqueo.</string>
-</resources>

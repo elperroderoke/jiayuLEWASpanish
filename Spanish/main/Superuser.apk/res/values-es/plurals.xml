@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="restore_complete">
+        <item quantity="other">%1$d aplicaciones con sus preferencias restauradas</item>
+        <item quantity="one">Una aplicación con sus preferencias restaurada</item>
+    </plurals>
+    <plurals name="pref_logs_deleted">
+        <item quantity="other">%1$d registros eliminados</item>
+        <item quantity="one">Un registro eliminado</item>
+    </plurals>
+    <plurals name="pin_incorrect_try">
+        <item quantity="other">No - quedan %1$d intentos</item>
+        <item quantity="one">Última oportunidad</item>
+    </plurals>
+    <plurals name="malicious_apps_message1">
+        <item quantity="other">Los siguientes paquetes podrían ser maliciosos:</item>
+        <item quantity="one">El siguiente paquete podría ser malicioso:</item>
+    </plurals>
+</resources>

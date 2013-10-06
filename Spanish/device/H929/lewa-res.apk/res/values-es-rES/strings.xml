@@ -39,9 +39,4 @@
     <string name="ringtone_custom">Custom...</string>
     <string name="ringtone_silent_summary">Silencio</string>
     <string name="data_usage_warning_body">Cuidado, solo queda %s con tu operador de datos.</string>
-	<string name="text_pastelist">Portapapeles</string>
-    <string name="select">Selecciona</string>
-    <string name="inadvertmode_title">Previnir toques imprevistos</string>
-    <string name="inadvertmode_tip_msg1">"No cubras la parte superior"</string>
-    <string name="inadvertmode_force_quit">"Salida forzada:presiona 'Home'+'Subir Volume'"</string>
 </resources>
