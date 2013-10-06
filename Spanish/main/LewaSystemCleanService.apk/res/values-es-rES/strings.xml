@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string name="app_name">Limpieza sistema</string>
+    <string name="menu_settings">Ajustes</string>
+    <string name="title_activity_main">Limpieza sistema</string>
+    <string name="calculate_sdcard">Calculando</string>
+    <string name="calculate_size">Calculando tamaño ...</string>
+    <string name="clean_sdcard">Limpiar tarjeta SD</string>
+    <string name="clean_sdcard_completed">Limpieza de tarjeta SD terminado</string>
+    <string name="clean_log_file_name">Registros de Log</string>
+    <string name="clean_app_sdcard_cache_name">Caché de apps en tarjeta SD</string>
+    <string name="clean_sdcard_cache_name">Archivos de caché</string>
+    <string name="clean_sdcard_empty_file_name">Archivos vacíos</string>
+    <string name="clean_sdcard_mtk_log_name">MTK logs</string>
+    <string name="clean_sdcard_thum_file_name">Archivos miniaturas</string>
+</resources>
