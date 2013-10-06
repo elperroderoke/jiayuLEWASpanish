@@ -4,9 +4,9 @@
     <string name="table_screensaver_name">Tablón de fotos</string>
     <string name="flipper_screensaver_name">Marco de fotos</string>
     <string name="posts_album_name">Fotos de posts</string>
-    <string name="uploads_album_name">Instant Uploads</string>
-    <string name="unknown_album_name">Unnamed Album</string>
-    <string name="stock_photo_album_name">Stock Photos</string>
-    <string name="local_source_name">Photos on Device</string>
-    <string name="need_to_configure">No photos selected.</string>
+    <string name="uploads_album_name">Subidas instantáneas</string>
+    <string name="unknown_album_name">Álbum sin nombre</string>
+    <string name="stock_photo_album_name">Fotos de stock</string>
+    <string name="local_source_name">Fotos del dispositivo</string>
+    <string name="need_to_configure">Fotos no seleccionadas.</string>
 </resources>

@@ -2,8 +2,8 @@
 <!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
     <string name="unlock_set_unlock_mode_voice_weak">Desbloqueo por voz</string>
     <string name="voice_unlock_setup_intro_header">Grabar comando de voz</string>
-    <string name="voice_command_select_title">Select command</string>
-    <string name="voice_command_launch_app_title">Launch app</string>
+    <string name="voice_command_select_title">Elegir comando</string>
+    <string name="voice_command_launch_app_title">Abrir aplicación</string>
     <string name="reset_command_title">Reset command</string>
     <string name="playback_failed">Sorry, failed to open file.</string>
     <string name="reset_command_prompt">Current command will be reset, and will not be recovered.</string>
