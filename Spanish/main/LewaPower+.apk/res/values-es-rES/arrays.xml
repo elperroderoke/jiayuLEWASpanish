@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sp_mode">
+        <item>Ahorro de energía</item>
+        <item>Modo de suspensión despertador</item>
+    </string-array>
+</resources>

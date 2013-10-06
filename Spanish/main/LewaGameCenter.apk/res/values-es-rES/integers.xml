@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <integer name="app_info_max_lines">3</integer>
+    <integer name="category_grid_num_columns">2</integer>
+    <integer name="rating_bar_total_star">5</integer>
+</resources>
